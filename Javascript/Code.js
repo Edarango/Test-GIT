@@ -1,3 +1,5 @@
 a = 3;
-if a == 3
-print('Todo está OK');
+if a = 3
+console.log('Todo está OK');
+
+console.log('Cambios en las etiquetas');
